@@ -1,4 +1,4 @@
-package ie.rafalWIT;
+package ie.rafalSETU;
 
 public class Main {
 
